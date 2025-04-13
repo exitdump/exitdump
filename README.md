@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @jahidhasan100101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jahidhasan100101/jahidhasan100101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+</p>
